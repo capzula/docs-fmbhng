@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-f2dlap.3depositcasino.co.nz/sitemap.xml
